@@ -1,0 +1,49 @@
+body {
+    background-image: url('../17973908.jpg');
+    color : rgb(12, 0, 0); 
+  }
+  
+ 
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #63616163;
+  
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  word-spacing: 10px;
+}
+
+.d-flex{
+  display: inline;
+  float: end;
+  }
+
+.rounded-circle{
+  float: right;
+  display: inline;
+}
+.presentation{
+   text-align: center;
+   font-size: larger;
+   font-weight: bold;
+}
+ 
+
+
+.footer{
+  text-align: center;
+}
